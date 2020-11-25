@@ -11,9 +11,10 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "dotenv-flow": "^3.1.0",
-        "@steedos/steedos-plugin-workflow": "^2.0.8",
         "@steedos/accounts": "^1.22.2",
+        "@steedos/metadata-api": "^1.23.0-alpha.1",
+        "@steedos/steedos-plugin-workflow": "^2.0.8",
+        "dotenv-flow": "^3.1.0",
         "steedos-server": "^1.22.2"
     },
     "devDependencies": {
