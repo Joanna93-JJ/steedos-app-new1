@@ -1,0 +1,8 @@
+allowCreate: true
+allowDelete: false
+allowEdit: false
+allowRead: true
+modifyAllRecords: false
+modifyCompanyRecords: false
+viewAllRecords: false
+viewCompanyRecords: false

@@ -1,0 +1,5 @@
+name: close
+is_enable: true
+label: 关闭
+'on': record_only
+visible: true
