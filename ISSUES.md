@@ -23,12 +23,18 @@
 4.  从服务器获取Profile
 
     结果： 
-
+    遗留问题：admin
 
 5.  从服务器获取Permissionset
 
     需要确认问题：数据库中的permissset 没有创建 customer --- 已确认 √
 
+6.  给test01对象添加buttons，然后从服务器重新获取Object
 
+    结果：成功获取到新定义两个button，且属性完整
+
+7.  给对象新建列表视图，然后重新获取Object
+
+    
 
 【代码操作，然后上传到服务器，比对刷新后的页面和代码有无出入】
