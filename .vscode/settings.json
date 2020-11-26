@@ -7,5 +7,7 @@
         "./node_modules/@steedos/schemas/app/schema.json": "/*.app.yml",
         "./node_modules/@steedos/schemas/object/schema.json": "/*.object.yml",
         "./node_modules/@steedos/schemas/dashboard/schema.json": "/*.dashboard.yml"
-    }
+    },
+    "editor.accessibilityPageSize": 14,
+    "editor.fontSize": 16
 }
