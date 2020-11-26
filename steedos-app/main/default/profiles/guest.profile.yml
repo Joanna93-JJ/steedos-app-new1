@@ -1,4 +1,8 @@
 name: guest
+assigned_apps:
+  - workflow
+  - cms
+  - process_automation
 label: 游客
 license: platform
 lockout_interval: '15'

@@ -1,2 +1,5 @@
 name: test_perset
+assigned_apps:
+  - cms
+  - process_automation
 label: 权限集测试

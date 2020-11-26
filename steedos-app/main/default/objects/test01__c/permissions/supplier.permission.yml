@@ -2,7 +2,7 @@ allowCreate: true
 allowDelete: true
 allowEdit: true
 allowRead: true
-modifyAllRecords: false
-modifyCompanyRecords: false
-viewAllRecords: false
-viewCompanyRecords: false
+modifyAllRecords: true
+modifyCompanyRecords: true
+viewAllRecords: true
+viewCompanyRecords: true
