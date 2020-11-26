@@ -1,0 +1,16 @@
+name: t_boolean__c
+defaultValue: '0'
+description: 描述
+filterable: false
+hidden: false
+index: false
+is_name: false
+is_wide: false
+label: t_boolean
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 170
+sortable: false
+type: boolean

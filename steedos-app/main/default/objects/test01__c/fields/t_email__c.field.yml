@@ -1,0 +1,15 @@
+name: t_email__c
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 不能为空
+is_name: false
+is_wide: false
+label: Email
+omit: false
+readonly: false
+required: true
+searchable: true
+sort_no: 250
+sortable: false
+type: email

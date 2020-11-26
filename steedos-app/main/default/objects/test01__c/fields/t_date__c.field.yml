@@ -1,0 +1,17 @@
+name: t_date__c
+defaultValue: '2021-11-26'
+description: 描述
+filterable: false
+hidden: false
+index: false
+inlineHelpText: 不能为空
+is_name: false
+is_wide: false
+label: 测试日期
+omit: false
+readonly: false
+required: true
+searchable: true
+sort_no: 140
+sortable: false
+type: date
