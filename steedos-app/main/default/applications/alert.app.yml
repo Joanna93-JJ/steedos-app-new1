@@ -1,0 +1,22 @@
+name: 提醒
+icon_slds: announcement
+is_creator: true
+is_new_window: false
+is_use_ie: false
+is_use_iframe: false
+mobile: true
+mobile_objects:
+  - events
+  - chat_messages
+  - tasks
+oauth2_enabled: false
+oauth2_logout_enabled: false
+objects:
+  - events
+  - chat_messages
+  - cms_posts
+  - tasks
+saml_enabled: false
+saml_logout_enabled: false
+sort: 9100
+visible: true

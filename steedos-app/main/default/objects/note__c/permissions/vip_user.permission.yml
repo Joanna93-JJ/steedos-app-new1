@@ -1,0 +1,18 @@
+allowCreate: true
+allowDelete: true
+allowEdit: true
+allowRead: true
+disabled_actions:
+  - standard_query
+disabled_list_views:
+  - YXxZmhhL7ueduhP3k
+modifyAllRecords: false
+modifyCompanyRecords: false
+uneditable_fields:
+  - name
+  - content__c
+unreadable_fields:
+  - created
+  - created_by
+viewAllRecords: false
+viewCompanyRecords: false

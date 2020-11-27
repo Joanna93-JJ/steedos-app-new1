@@ -1,0 +1,4 @@
+name: test_verify
+active: false
+error_condition_formula: name ne null
+error_message: 名称不能为空

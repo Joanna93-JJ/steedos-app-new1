@@ -1,0 +1,15 @@
+allowCreate: true
+allowDelete: true
+allowEdit: true
+allowRead: true
+modifyAllRecords: false
+modifyCompanyRecords: true
+uneditable_fields:
+  - modified
+  - modified_by
+  - name
+unreadable_fields:
+  - created_by
+  - created
+viewAllRecords: false
+viewCompanyRecords: true

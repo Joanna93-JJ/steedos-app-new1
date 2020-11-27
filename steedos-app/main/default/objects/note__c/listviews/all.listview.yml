@@ -1,0 +1,34 @@
+name: all
+columns:
+  - field: name
+    width: '10'
+    wrap: false
+  - field: content__c
+    wrap: true
+  - field: created
+    width: '15'
+    wrap: false
+  - field: created_by
+    width: '10'
+    wrap: false
+  - field: modified
+    width: '15'
+    wrap: false
+  - field: modified_by
+    width: '10'
+    wrap: false
+  - wrap: false
+filter_scope: space
+filters: []
+label: 所有
+mobile_columns:
+  - field: name
+  - field: content__c
+  - field: modified
+scrolling_mode: standard
+shared: true
+show_count: true
+sort:
+  - field_name: modified
+    order: desc
+type: grid

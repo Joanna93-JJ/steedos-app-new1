@@ -1,0 +1,5 @@
+name: label
+is_enable: true
+label: 标签
+'on': list_item
+visible: true
