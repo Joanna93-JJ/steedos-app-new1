@@ -1,5 +1,5 @@
 allowCreate: true
-allowDelete: true
+allowDelete: false
 allowEdit: true
 allowRead: true
 disabled_actions:

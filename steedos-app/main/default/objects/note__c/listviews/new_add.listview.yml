@@ -19,7 +19,7 @@ columns:
     wrap: false
 filter_scope: space
 filters: []
-label: 最近添加
+label: 新添加
 mobile_columns:
   - field: name
   - field: content__c
