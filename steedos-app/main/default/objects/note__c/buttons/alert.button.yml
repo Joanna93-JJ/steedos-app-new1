@@ -1,5 +1,5 @@
 name: alert
-is_enable: true
-label: 提醒
+is_enable: false
+label: 闹钟
 'on': record
 visible: true
