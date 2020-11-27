@@ -2,20 +2,10 @@ name: location
 description: '1234'
 icon_slds: address
 is_creator: true
-is_new_window: false
-is_use_ie: false
-is_use_iframe: false
-mobile: true
 mobile_objects:
   - accounts
   - test01__c
-oauth2_enabled: false
-oauth2_logout_enabled: false
 objects:
   - test01__c
   - reports
-saml_enabled: true
-saml_logout_block: post
-saml_logout_enabled: false
 sort: 9100
-visible: true
