@@ -1,8 +1,0 @@
-allowCreate: true
-allowDelete: true
-allowEdit: true
-allowRead: true
-modifyAllRecords: true
-modifyCompanyRecords: false
-viewAllRecords: true
-viewCompanyRecords: true

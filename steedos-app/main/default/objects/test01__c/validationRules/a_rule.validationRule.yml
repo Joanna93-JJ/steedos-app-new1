@@ -1,5 +1,0 @@
-name: a_rule
-active: true
-description: test
-error_condition_formula: name = null
-error_message: 名称不能为空

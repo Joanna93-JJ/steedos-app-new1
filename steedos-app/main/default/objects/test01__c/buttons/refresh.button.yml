@@ -1,5 +1,0 @@
-name: refresh
-is_enable: true
-label: 刷新
-'on': list
-visible: true
