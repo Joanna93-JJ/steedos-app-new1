@@ -1,5 +1,0 @@
-name: alert
-is_enable: false
-label: 闹钟
-'on': record
-visible: true
